@@ -1,0 +1,11 @@
+.about{
+    background-color: rgb(24, 92, 12);
+    color: azure;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.back{
+    background-color: rgb(24, 92, 12);
+}
